@@ -142,7 +142,7 @@ footer {
     margin: 10px;
 }
 
-.families-container {
+#families-container {
     width: 80%;
     min-width: 500px;
     display: flex;
